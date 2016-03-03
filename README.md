@@ -5,8 +5,7 @@ Tutorial:
 1. Onboarding: Java
 
 Easy
-1. Power of Thor
-   Solutions: Java
+1. Power of Thor\n\tSolutions: Java
 2. The Descent: Java
 3. Skynet: the Chasm
    Solutions: Java
