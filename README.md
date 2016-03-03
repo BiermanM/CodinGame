@@ -2,9 +2,12 @@
 Solutions to CodinGame Puzzle Challenges
 
 Tutorial:
-1. Onboarding: Java
 
-Easy
+1. Onboarding
+   * Java
+
+Easy:
+
 1. Power of Thor
    * Java
 2. The Descent
@@ -27,10 +30,13 @@ Easy
    * Java
 
 Medium:
+
 (not completed)
 
 Hard:
+
 (not completed)
 
 Very Hard:
+
 (not completed)
