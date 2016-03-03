@@ -5,24 +5,26 @@ Tutorial:
 1. Onboarding: Java
 
 Easy
-1. Power of Thor\n\tSolutions: Java
-2. The Descent: Java
+1. Power of Thor
+   * Java
+2. The Descent
+   * Java
 3. Skynet: the Chasm
-   Solutions: Java
+   * Java
 4. Temperatures
-   Solutions: Java
+   * Java
 5. Mars Lander - Level 1
-   Solutions: Java
+   * Java
 6. ASCII Art
-   Solutions: Java
+   * Java
 7. Chuck Norris
-   Solutions: Java
+   * Java
 8. MIME Type
-   Solutions: Java
+   * Java
 9. Defibrillators
-   Solutions: Java
+   * Java
 10. Horse-racing Duals
-   Solutions: Java
+   * Java
 
 Medium:
 (not completed)
