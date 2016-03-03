@@ -5,8 +5,6 @@ class Player
     public static void main(String args[]) 
     {
         Scanner in = new Scanner(System.in);
-
-        // game loop
         while (true) 
         {
             String enemy1 = in.next(); // name of enemy 1
