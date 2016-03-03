@@ -29,14 +29,8 @@ Solutions to CodinGame Puzzle Challenges
 10. Horse-racing Duals
    * Java
 
-Medium Level:
+Medium Level: *(not completed)*
 
-(not completed)
+Hard Level: *(not completed)*
 
-Hard Level:
-
-(not completed)
-
-Very Hard Level:
-
-(not completed)
+Very Hard Level: *(not completed)*
