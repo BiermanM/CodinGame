@@ -10,8 +10,8 @@ Solutions to CodinGame Puzzle Challenges
 
 1. [Power of Thor](https://github.com/BiermanM/CodinGame/tree/master/Easy-Level/Power-of-Thor)
    * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Power-of-Thor/Power%20of%20Thor%20Solution.java)
-2. The Descent
-   * Java
+2. [The Descent](https://github.com/BiermanM/CodinGame/tree/master/Easy-Level/The-Descent)
+   * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/The-Descent/The%20Descent%20Solution.java)
 3. Skynet: the Chasm
    * Java
 4. Temperatures
