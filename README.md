@@ -1,15 +1,15 @@
-# CodinGame
+# CodinGame Solutions
 Solutions to CodinGame Puzzle Challenges
 
-Tutorial:
+[Tutorial Level](https://github.com/BiermanM/CodinGame/tree/master/Tutorial-Level):
 
-1. Onboarding
-   * Java
+1. [Onboarding](https://github.com/BiermanM/CodinGame/tree/master/Tutorial-Level/Onboarding)
+   * [Java](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding-Solution.java)
 
-Easy:
+[Easy Level](https://github.com/BiermanM/CodinGame/tree/master/Easy-Level):
 
-1. Power of Thor
-   * Java
+1. [Power of Thor](https://github.com/BiermanM/CodinGame/tree/master/Easy-Level/Power-of-Thor)
+   * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Power-of-Thor/Power%20of%20Thor%20Solution.java)
 2. The Descent
    * Java
 3. Skynet: the Chasm
@@ -29,14 +29,14 @@ Easy:
 10. Horse-racing Duals
    * Java
 
-Medium:
+Medium Level:
 
 (not completed)
 
-Hard:
+Hard Level:
 
 (not completed)
 
-Very Hard:
+Very Hard Level:
 
 (not completed)
