@@ -12,8 +12,8 @@ Solutions to CodinGame Puzzle Challenges
    * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Power-of-Thor/Power%20of%20Thor%20Solution.java)
 2. [The Descent](https://github.com/BiermanM/CodinGame/tree/master/Easy-Level/The-Descent)
    * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/The-Descent/The%20Descent%20Solution.java)
-3. Skynet: the Chasm
-   * Java
+3. [Skynet: the Chasm](https://github.com/BiermanM/CodinGame/tree/master/Easy-Level/Skynet-the-Chasm)
+   * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Skynet-the-Chasm/Skynet:%20the%20Chasm%20Solution.java)
 4. Temperatures
    * Java
 5. Mars Lander - Level 1
