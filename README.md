@@ -4,7 +4,11 @@ Solutions to CodinGame Puzzle Challenges
 [Tutorial Level](https://github.com/BiermanM/CodinGame/tree/master/Tutorial-Level):
 
 1. [Onboarding](https://github.com/BiermanM/CodinGame/tree/master/Tutorial-Level/Onboarding)
-   * [Java](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding-Solution.java)
+   * [C#](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(C%23).cs)
+   * [C++](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(C%2B%2B).cpp)
+   * [Java](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Java).java)
+   * [Javascript](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Javascript).js)
+   * [Python3](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Python3).py)
 
 [Easy Level](https://github.com/BiermanM/CodinGame/tree/master/Easy-Level):
 
