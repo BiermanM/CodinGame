@@ -10,9 +10,26 @@ Solutions to CodinGame Puzzle Challenges
    * [C++](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(C%2B%2B).cpp)
    * [Clojure](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Clojure).clj)
    * [Dart](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Dart).dart)
+   * [F#](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(F%23).fs)
+   * [Go](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Go).go)
+   * [Groovy](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Groovy).groovy)
+   * [Haskell](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Haskell).hs)
    * [Java](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Java).java)
    * [Javascript](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Javascript).js)
+   * [Lua](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Lua).lua)
+   * [OCaml](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(OCaml).ml)
+   * [ObjectiveC](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(ObjectiveC).m)
+   * [PHP](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(PHP).php)
+   * [Pascal](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Pascal).pp)
+   * [Perl](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Perl).pl)
+   * [Python](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Python).py)
    * [Python3](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Python3).py)
+   * [Ruby](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Ruby).rb)
+   * [Rust](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Rust).rs)
+   * [Scala](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Scala).sc)
+   * [Swift](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(Swift).swift)
+   * [VB.NET](https://github.com/BiermanM/CodinGame/blob/master/Tutorial-Level/Onboarding/Onboarding%20Solution%20(VB.NET).vb)
+
 
 [Easy Level](https://github.com/BiermanM/CodinGame/tree/master/Easy-Level):
 
