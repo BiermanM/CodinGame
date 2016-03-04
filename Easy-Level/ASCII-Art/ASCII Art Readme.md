@@ -6,11 +6,11 @@ Have you ever asked yourself how it might be possible to simulate this display o
 
 ASCII art allows you to represent forms by using characters. To be precise, in our case, these forms are words. For example, the word "MANHATTAN" could be displayed as follows in ASCII art:
 
-# #  #  ### # #  #  ### ###  #  ###
-### # # # # # # # #  #   #  # # # #
-### ### # # ### ###  #   #  ### # #
-# # # # # # # # # #  #   #  # # # #
-# # # # # # # # # #  #   #  # # # #
+`# #  #  ### # #  #  ### ###  #  ###`
+`### # # # # # # # #  #   #  # # # #`
+`### ### # # ### ###  #   #  ### # #`
+`# # # # # # # # # #  #   #  # # # #`
+`# # # # # # # # # #  #   #  # # # #`
 
 Your mission is to write a program that can display a line of text in ASCII art.
 
