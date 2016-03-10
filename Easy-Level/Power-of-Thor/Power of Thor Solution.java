@@ -17,14 +17,14 @@ class Player
             int remainingTurns = in.nextInt(); // The level of Thor's remaining energy, representing the number of moves he can still make.
             String direction = "";
             
-        	if (initialTY < lightY) 
-        	{
+            if (initialTY < lightY) 
+            {
                 initialTY++;
                 direction = "S";
-        	}
-        	
-        	else if (initialTY > lightY) 
-        	{
+            }
+            
+            else if (initialTY > lightY) 
+            {
                 initialTY--;
                 direction = "N";
             } 
