@@ -39,6 +39,7 @@ Solutions to CodinGame Puzzle Challenges
    * [Bash](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/The-Descent/The%20Descent%20Solution%20(Bash).sh)
 2. [Power of Thor](https://github.com/BiermanM/CodinGame/tree/master/Easy-Level/Power-of-Thor)
    * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Power-of-Thor/Power%20of%20Thor%20Solution.java)
+   * [Bash](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Power-of-Thor/Power%20of%20Thor%20Solution%20(Bash).sh)
 3. [Skynet: the Chasm](https://github.com/BiermanM/CodinGame/tree/master/Easy-Level/Skynet-the-Chasm)
    * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Skynet-the-Chasm/Skynet:%20the%20Chasm%20Solution.java)
 4. [Temperatures](https://github.com/BiermanM/CodinGame/tree/master/Easy-Level/Temperatures)
