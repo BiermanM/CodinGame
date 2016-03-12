@@ -47,17 +47,17 @@ Solutions to CodinGame Puzzle Challenges
    * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Temperatures/Temperatures%20Solution%20(Java).java)
    * [Bash](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Temperatures/Temperatures%20Solution%20(Bash).sh)
 5. [Mars Lander - Level 1](https://github.com/BiermanM/CodinGame/tree/master/Easy-Level/Mars-Lander---Level-1)
-   * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Mars-Lander---Level-1/Mars%20Lander%20-%20Level%201%20Solution.java)
+   * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Mars-Lander---Level-1/Mars%20Lander%20-%20Level%201%20Solution%20(Bash).java)
 6. [ASCII Art](https://github.com/BiermanM/CodinGame/tree/master/Easy-Level/ASCII-Art)
-   * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/ASCII-Art/ASCII%20Art%20Solution.java)
+   * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/ASCII-Art/ASCII%20Art%20Solution%20(Java).java)
 7. [Chuck Norris](https://github.com/BiermanM/CodinGame/tree/master/Easy-Level/Chuck-Norris)
-   * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Chuck-Norris/Chuck%20Norris%20Solution.java)
+   * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Chuck-Norris/Chuck%20Norris%20Solution%20(Java).java)
 8. [MIME Type](https://github.com/BiermanM/CodinGame/tree/master/Easy-Level/MIME-Type)
-   * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/MIME-Type/MIME%20Type%20Solution.java)
+   * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/MIME-Type/MIME%20Type%20Solution%20(Java).java)
 9. [Defibrillators](https://github.com/BiermanM/CodinGame/tree/master/Easy-Level/Defibrillators)
-   * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Defibrillators/Defibrillators%20Solution.java)
+   * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Defibrillators/Defibrillators%20Solution%20(Java).java)
 10. [Horse-racing Duals](https://github.com/BiermanM/CodinGame/tree/master/Easy-Level/Horse-racing-Duals)
-   * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Horse-racing-Duals/Horse-racing%20Duals%20Solution.java)
+   * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Horse-racing-Duals/Horse-racing%20Duals%20Solution%20(Java).java)
 
 Medium Level: *(not completed)*
 
