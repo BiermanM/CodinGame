@@ -59,6 +59,7 @@ Solutions to CodinGame Puzzle Challenges
    * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Defibrillators/Defibrillators%20Solution%20(Java).java)
 10. [Horse-racing Duals](https://github.com/BiermanM/CodinGame/tree/master/Easy-Level/Horse-racing-Duals)
    * [Java](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Horse-racing-Duals/Horse-racing%20Duals%20Solution%20(Java).java)
+   * [Bash](https://github.com/BiermanM/CodinGame/blob/master/Easy-Level/Horse-racing-Duals/Horse-racing%20Duals%20Solution%20(Bash).sh)
 
 Medium Level: *(not completed)*
 
