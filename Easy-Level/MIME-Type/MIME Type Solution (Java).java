@@ -12,8 +12,8 @@ class Solution
         
         HashMap<String,String> map = new HashMap<String,String>();
         
-		for (int i = 0; i < n; i++) 
-		{
+	for (int i = 0; i < n; i++) 
+	{
             String ext = in.next(); 
             String mt = in.next(); 
             in.nextLine();
